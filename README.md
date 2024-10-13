@@ -30,12 +30,21 @@ SMOTE was applied with the intention to balance the dataset, with hope of better
 This could be due to the new synthetic samples being generated in overlapping areas.
 Decision Tree (with K-fold cross validation) algorithm is the best algorithm for our model with the highest accuracy around percent
 
-#### What I have learned:
+#### What you learned:
 Choosing the column to predict based on the problem definition
 Checking the data types of columns in the dataset to see what interactive charts to use for EDA
 Cross-Validation to evaluate the performance of models, hyperparameter Tuning to improve performance
 
+#### Description of different jupyter notebooks:
+Capstone-Part1: Loading the data, EDA and data preparation
+Capstone-Part2: EDA(Histogram and boxplot)
+Capstone-Part3: EDA(Histogram and boxplot)
+Capstone-Part4: EDA(Correlation and Preparing the data for training and testing)
+Capstone-Part5: ML model and confusion matrix
+
+
 #### Connect with Me!:
 Like my work?Send me a DM on
 [Link to Linkedin](https://www.linkedin.com/in/zahid-salam-b79290137/)
+
 
